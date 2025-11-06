@@ -149,7 +149,7 @@ const Hero = () => {
           <h1 className="text-5xl md:text-6xl font-bold leading-tight">Hello, <br />I'm Raja</h1>
           {/* Corrected Tailwind text color classes */}
           <p className="max-w-md text-white-600">
-            A passionate frontend developer specializing in building clean, responsive websites and applications with modern technologies.
+            A passionate fullstack developer specializing in building clean, responsive websites and applications with modern technologies.
           </p>
         </div>
         
