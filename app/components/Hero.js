@@ -194,7 +194,7 @@ const Hero = () => {
                         <HashMarks />
                         <img
                             id="hero-image"
-                            src="/dp.jpg"
+                            src="/globe.svg"
                             alt="Raja"
                             className="relative z-10 w-full h-full object-cover rounded-full"
                         />
